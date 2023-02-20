@@ -1,10 +1,12 @@
 # Fw1Practicas
-Numero de control: 19120078
+Numero de control: 
 
-Nombre: Kevin Jonathan Tehuacanero Olivier
+Nombre:
 
-Curp: TEOK010323HPLHVA0
+Curp:
 
-Domicilio: 2 norte 
+Domicilio:
 
-Correo Institucional: 19120078@ajalpan.tecmn.mx
+Correo Institucional:
+
+Rama1
