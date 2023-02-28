@@ -1,9 +1,9 @@
 # Fw1Practicas
-Numero de control: 
+Número de control: 
 
 Nombre:
 
-Curp:
+CURP::
 
 Domicilio:
 
